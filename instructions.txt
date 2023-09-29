@@ -1,0 +1,11 @@
+# gather matterials
+# materials include bread, jelly, plate, knife,
+int p=0;
+int j= 0
+
+for (int i, i<10, i++){
+p++;
+j++;
+}
+
+# this is so random
